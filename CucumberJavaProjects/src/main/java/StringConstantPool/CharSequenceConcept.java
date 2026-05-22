@@ -1,0 +1,20 @@
+package StringConstantPool;
+
+import org.openqa.selenium.WebDriver;
+import org.openqa.selenium.chrome.ChromeDriver;
+
+public class CharSequenceConcept {
+	//CharSequence is an interface
+	//String ,String buffer,StringBuilder are types
+	
+	
+	
+	
+	
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}
